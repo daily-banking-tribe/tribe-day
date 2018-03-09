@@ -1,0 +1,2 @@
+# tribe-day
+GitHub Pages
